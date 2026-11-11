@@ -1,0 +1,75 @@
+Sum Trail Privacy Policy
+Effective date: November 12, 2026
+App: Sum Trail for iPhone
+Owner: Abhishek .
+Contact: abhishek.dhiman18@icloud.com
+
+This policy explains how Sum Trail stores game information and uses services for advertising, purchases and support.
+Information stored on your device
+Sum Trail stores information needed to operate the game, including:
+- Current puzzles, selected paths and completed levels.
+- Difficulty settings, unlocked levels and hint balances.
+- Language, appearance and vibration preferences.
+- Progress toward advertisement intervals.
+- Legacy onboarding status and age-category values from earlier versions, where present.
+This information is stored locally on your device. The game does not require an account and does not send puzzle progress to a developer-operated server.
+
+Local app information may be included in device backups, depending on your Apple settings.
+Age information
+Sum Trail is a general-audience app. The current version does not ask for a date of birth.
+
+Earlier versions may have stored an age category locally. Those legacy values may remain in saved progress, but the current version does not use them to restrict advertising to adults.
+
+Free players may receive non-personalized advertisements. Premium removes advertisements.
+Device permissions and language
+Sum Trail uses device language preferences to select a supported language. This feature does not require GPS or precise location.
+
+Normal gameplay does not require access to your contacts, microphone, camera or photo library.
+Unity advertisements
+For players without Premium, Sum Trail uses Unity Ads to provide banner, interstitial and video advertisements, subject to availability.
+
+Unity may process information such as:
+- IP addresses.
+- Device or app identifiers.
+- Device and operating-system details.
+- Approximate location inferred from network information.
+- Diagnostics and advertisement interactions.
+The app configures Unity for contextual, non-personalized advertising and passes consent-denied, opt-out and non-behavioral signals. The app does not request App Tracking Transparency permission.
+
+Non-personalized advertising still involves some data processing. These settings do not mean that Unity receives no information.
+
+Unity’s processing, retention, international transfers and available privacy controls are described in its policies:
+
+Unity Privacy Policy
+https://unity.com/legal/privacy-policy
+
+Unity Game Player Privacy FAQ
+https://unity.com/legal/game-player-and-app-user-privacy-faq
+
+Premium removes advertisements. Purchasing Premium does not automatically delete information previously collected by Unity.
+Apple purchases
+Apple processes App Store payments. Sum Trail uses StoreKit to retrieve product information, verify purchase entitlements, restore purchases and respond to refunds or revocations.
+
+The developer does not receive your full payment-card details or Apple Account password through this purchase flow.
+
+Apple’s handling of purchase information is governed by its privacy policy:
+
+https://www.apple.com/legal/privacy/
+Support communications
+If you contact support, we receive your email address and the information you choose to provide, such as messages, screenshots and device details.
+
+We use this information to respond to your request and investigate problems. Support messages may be retained as needed to handle requests and maintain related records, subject to applicable requirements and the email services involved.
+
+Do not include passwords, payment-card details or unnecessary sensitive information.
+Removing information and making requests
+To remove the app’s local data, use Delete App in iOS Settings. Offloading the app may preserve its data. Restoring a device backup may restore previously saved information.
+
+Deleting the app does not erase Apple’s purchase records or necessarily remove information held by Unity or an email provider.
+
+For questions or requests concerning information sent directly to the developer, contact:
+
+abhishek.dhiman18@icloud.com
+
+For information held by Apple or Unity, use the relevant provider’s privacy resources. Your available rights depend on your location and applicable requirements.
+Policy updates
+We may update this policy when the app or its data practices change. The current document will display its effective date.
